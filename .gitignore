@@ -1,0 +1,8 @@
+venv/
+.idea/
+.vscode/
+.env
+library/src/__pycache__
+frontends/__pycache__
+frontends/console/__pycache__
+tests/__pycache__
