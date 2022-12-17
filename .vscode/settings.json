@@ -1,5 +1,0 @@
-{
-    "terminal.integrated.env.osx": {"PYTHONPATH": "${workspaceFolder}/library/src"},
-      "python.envFile": "${workspaceFolder}/.env",
-      "python.analysis.extraPaths": ["${workspaceFolder}/library/src"]
-}
