@@ -1,0 +1,1 @@
+-e git+https://github.com/vsevolodkocherin/tic-tac-toe.git@f8eb98d0d5eccc82b01298744df7889f78644b6d#egg=tic_tac_toe&subdirectory=library
